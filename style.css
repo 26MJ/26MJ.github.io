@@ -128,7 +128,7 @@ body {
 .tag {
     font-size: 12px;
     padding: 4px 10px;
-    border-radius: 999px;
+    border-radius: 1300px;
     background-color: #dbd5e6;
     color: #380c6a;
     border: 1px solid #b0b0b0;
@@ -141,7 +141,7 @@ body {
     color: #cecfcd;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 800px) {
     .profile-card {
         grid-template-columns: 1fr;
         text-align: left;
@@ -152,5 +152,6 @@ body {
     }
 
 }
+
 
 
