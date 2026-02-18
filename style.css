@@ -36,7 +36,7 @@ body {
 
 .container {
     width: 200%;
-    max-width: 760px;
+    max-width: 960px;
 }
 
 .profile-card,
@@ -152,6 +152,7 @@ body {
     }
 
 }
+
 
 
 
