@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 10;
 }
 
 body {
@@ -150,4 +150,5 @@ body {
     .profile-card {
         padding: 20px 16px 18px;
     }
+
 }
