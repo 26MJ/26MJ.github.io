@@ -57,15 +57,15 @@ body {
 }
 
 .avatar {
-    width: 96px;
-    height: 96px;
+    width: 120px;
+    height: 120px;
     border-radius: 999px;
     background: linear-gradient(135deg, #f7b2b2, #f3c7c7);
     display: flex;
     align-items: center;
     justify-content: center;
     color: #7a1442;
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 600;
     box-shadow: 0 10px 25px rgba(238, 157, 144, 0.35)
 }
@@ -152,6 +152,7 @@ body {
     }
 
 }
+
 
 
 
