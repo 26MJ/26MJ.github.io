@@ -51,7 +51,7 @@ body {
 
 .profile-card {
     display: grid;
-    grid-template-columns: 110px 1fr;
+    grid-template-columns: 220px 1fr;
     gap: 20px;
     align-items:center;
 }
@@ -152,6 +152,7 @@ body {
     }
 
 }
+
 
 
 
